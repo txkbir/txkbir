@@ -1,12 +1,12 @@
-# :wave: Hi there, I'm Takbir!
+# 🚴‍♂️ Takbir Rahman
 
 **`Computer Science Student`**
 
-<p>My name is Takbir and I'm a 2nd year Computer Science student at UCLA! I am proficient in Python and C++ programming and I am learning the ropes of Fullstack Web Development.</p> 
+👋 Hi! My name is Takbir and I'm a 2nd year Computer Science student at UCLA. I am proficient in Python and C++ programming and am learning the ropes of Fullstack Web Development!
 
-<p>I am a motivated and fast learner, and I pick up on new technologies/ideas very fast. I am actively seeking a software engineering internship opportunity to apply my programming skills in creating innovative solutions that enable business and technical functions. Above all, I want to collaborate in a dynamic team, create value, contribute to meaningful projects, and grow as a software developer.</p>
+I am a motivated and fast learner, and I pick up on new technologies/ideas very fast. I am actively seeking a software engineering internship opportunity to apply my programming skills in creating innovative solutions that enable business and technical functions. Above all, I want to collaborate in a dynamic team, create value, contribute to meaningful projects, and grow as a software developer.
 
-<p>In my free time, I love hiking, biking, watching movies, and collecting LEGO! I'm a huge Star Wars fan and have been my entire life, and as such, I pretty much only collect LEGO Star Wars. I also love cats despite being severely allergic 😁. One fun fact about me is that I'm ambidextrous.</p> 
+In my free time, I love hiking, biking, watching movies, and collecting LEGO! I'm a huge Star Wars fan and have been my entire life, and as such, I pretty much only collect LEGO Star Wars. I also love cats despite being severely allergic 😁. One fun fact about me is that I'm ambidextrous.
 
 <hr>
 
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 💼 Feel free to check out my portfolio!
-<p>You can explore all of my projects here on [GitHub](https://github.com/txkbir)!</p>
+You can explore all of my projects here on [GitHub](https://github.com/txkbir)!
 
 
 # 📲 Contact Me!
