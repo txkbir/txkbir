@@ -35,3 +35,13 @@ You can explore all of my projects here on [GitHub](https://github.com/txkbir)!
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/txkbir)
 
+#
+<details>
+  <summary><h2>👨‍💻 Takbir's Coding Journey</h2></summary>
+  <p>I started off as an Undeclared Engineering major who was unsure about his future, but knew he wanted to work in technology. Originally, I thought I wanted to go into Electrical / Computer Engineering, since that felt like the only route I could go down. It wasn't until after I took my first Computer Science course (Fundamentals of C++ Programming) in the 2nd quarter of my freshman year at UCLA that I realized I wanted to go into Computer Science. As I delved into the world of programming, I discovered my passion for solving complex problems with code. The satisfaction of crafting elegant solutions to real-world challenges became my driving force. I found myself immersing in projects that spanned various domains, from game development to automation and web scraping.</p> 
+    
+  <p>One of my proudest projects is my Tree-Based Mancala AI, where I expertly crafted a C++ implementation of Mancala and implemented an AI opponent with an intricate move-making system. This experience honed my skills in object-oriented design and game development, as well as showcases my dedication to creating immersive experiences. In my pursuit of learning and growing, I ventured into real-time systems, developing a Stock Trading News Alert system in Python. This project not only showcased my programming skills but also my ability to integrate various APIs, ensuring users stayed informed about market shifts.</p>
+  
+  <p>Now, as a 2nd-year Computer Science student at UCLA, I'm actively seeking a software engineering internship to further apply my skills, collaborate in dynamic teams, and contribute to projects that drive innovation and change. My journey has been one of continuous growth and learning, and I look forward to the challenges and opportunities that lie ahead. Feel free to explore my GitHub to see the culmination of my efforts and passion for technology.</p>
+</details>
+
