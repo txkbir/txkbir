@@ -1,5 +1,7 @@
 # :wave: Hi there, I'm Takbir!
 
+**`Computer Science Student`**
+
 <p>My name is Takbir and I'm a 2nd year Computer Science student at UCLA! I am proficient in Python and C++ programming and I am learning the ropes of Fullstack Web Development.</p> 
 
 <p>I am a motivated and fast learner, and I pick up on new technologies/ideas very fast. I am actively seeking a software engineering internship opportunity to apply my programming skills in creating innovative solutions that enable business and technical functions. Above all, I want to collaborate in a dynamic team, create value, contribute to meaningful projects, and grow as a software developer.</p>
