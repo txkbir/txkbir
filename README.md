@@ -4,7 +4,7 @@
 
 Hi 👋 My name is Takbir (thuck-beer). I'm a 3rd year Computer Science student at UCLA, set to graduate in June 2026. I'm joining Netflix as a SWE intern in Summer 2025 on the Consumer Product Security & Trust team.
 
-I am looking to apply my programming skills in creating innovative solutions that enable business and technical functions. I am a motivated and fast learner, and I pick up on new technologies/ideas very fast. Above all, my goals are to collaborate in a dynamic team, create value, contribute to meaningful projects, and grow as a software developer.
+My interests lie in Distributed Systems, Cloud, Security, and AI.
 
 In my free time, I love cooking, collecting (diecasts, LEGO, etc.), comics & movies, and playing Fortnite. Ask me about my diecast collection or my love for my favorite movies/franchises (Cars, Star Wars, Transformers, DC, etc.). One fun fact I love to tell people is that I'm ambidextrous.
 
