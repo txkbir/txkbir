@@ -8,7 +8,7 @@ My interests lie in Distributed Systems, Cloud, Security, and AI.
 
 In my free time, I love cooking, collecting (diecasts, LEGO, etc.), comics & movies, and playing Fortnite. Ask me about my diecast collection or my love for my favorite movies/franchises (Cars, Star Wars, Transformers, DC, etc.). One fun fact I love to tell people is that I'm ambidextrous.
 
-### Get in touch with me!
+## Get in touch with me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takbirr/)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takbirr04@gmail.com)
