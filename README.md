@@ -1,4 +1,4 @@
-# 🚴‍♂️ Takbir Rahman
+# Takbir Rahman
 
 **`UCLA Computer Science Undergraduate`**
 
@@ -10,12 +10,7 @@ In my free time, I love cooking, collecting (diecasts, LEGO, etc.), comics & mov
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txkbir&layout=compact&langs_count=10&card_width=475)
-
-# 💼 Feel free to check out my portfolio!
-You can explore all of my projects here on [GitHub](https://github.com/txkbir)!
-
-# 📲 Contact Me!
+# Get in touch with me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takbirr/)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takbirr04@gmail.com)
