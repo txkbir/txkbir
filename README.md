@@ -1,6 +1,6 @@
 # Takbir Rahman
 
-**`UCLA Computer Science Undergraduate`**
+**`UCLA CS 4th Year`**
 
 Hi. I'm Takbir, a 4th year CS student @UCLA. I recently interned @Netflix and will be rejoinining there as a Software Engineer following my graduation.
 
