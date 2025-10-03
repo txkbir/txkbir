@@ -2,7 +2,7 @@
 
 **`UCLA Computer Science Undergraduate`**
 
-Hi. I'm Takbir, a 4th year CS student @UCLA. I recently interned @Netflix and will be joining as a Software Engineer following my graduation.
+Hi. I'm Takbir, a 4th year CS student @UCLA. I recently interned @Netflix and will be rejoinining there as a Software Engineer following my graduation.
 
 ## Get in touch with me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takbirr/)
